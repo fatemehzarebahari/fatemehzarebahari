@@ -10,15 +10,15 @@
   </a>
 </div>
 <h1>
-  hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  hey there
 </h1>
- :woman_technologist: About Me :<br/>
+<h3>:woman_technologist: About Me :</h3> <br/>
 - :telescope: I’m studying as a computer Engineer at Ferdowsi University of Mashhad <br/>
-- :seedling:I'm learning Game development and I'm progressing in django   <br/>
-- :violin::weight_lifting_woman: I really enjoy playing violon and doing sport in my free times
+- :seedling: I'm progressing in django and recently I'm working on Game development  <br/>
+- :violin: I really enjoy playing violon and doing sport in my free times :weight_lifting_woman: 
 
-
+<br/><br/>
 ### :hammer_and_wrench: Languages and Tools :
 <div id="badges" >
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
