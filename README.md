@@ -16,7 +16,7 @@
 <h3>:woman_technologist: About Me :</h3> <br/>
 - :telescope: I’m studying as a computer Engineer at Ferdowsi University of Mashhad <br/>
 - :seedling: I'm progressing in django and recently I'm learning about Game development  <br/>
-- :violin: dint forget about music and health :weight_lifting_woman: 
+- :violin: dont forget about music and health :weight_lifting_woman: 
 
 <br/><br/>
 ### :hammer_and_wrench: Languages and Tools :
