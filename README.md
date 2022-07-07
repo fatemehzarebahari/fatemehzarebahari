@@ -12,12 +12,12 @@
 <h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"/>
   <br/>
-  hey there
+ <!--- hey there
 </h1>
 <h3>:woman_technologist: About Me :</h3> <br/>
 - :telescope: I’m studying as a computer Engineer at Ferdowsi University of Mashhad <br/>
 - :seedling: I'm progressing in django and recently I'm learning about Game development  <br/>
-- :violin: dont forget about music and health :weight_lifting_woman: 
+- :violin: dont forget about music and health :weight_lifting_woman: --->
 
 <br/><br/>
 ### :hammer_and_wrench: Languages and Tools :
