@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src=https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif width="100"/>
-</div>
+
 <div id="badges" align="center">
   <a href="https://t.me/F_galaxy">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
