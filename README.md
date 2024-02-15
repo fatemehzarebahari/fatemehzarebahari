@@ -24,7 +24,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Mysql" alt="Mysql" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C#" alt="c#" width="40" height="40"/>&nbsp;
+    <img src="[https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg](https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png)" title="C#" alt="c#" width="40" height="40"/>&nbsp;
 
 </div>
 
